@@ -11,7 +11,7 @@ The project is being developed under [STAR Projects](http://star.eee.metu.edu.tr
 **Project Members:**
 
 *  İbrahim Güngen
-*  fdf
+*  Emre Kutlu Kose
 *  fdgd
 *  hgd
 *  
