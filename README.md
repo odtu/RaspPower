@@ -10,7 +10,7 @@ The project is being developed under [STAR Projects](http://star.eee.metu.edu.tr
 
 **Project Members:**
 
-*  dfd
+*  İbrahim Güngen
 *  fdf
 *  fdgd
 *  hgd
